@@ -1,3 +1,5 @@
+Forked from scottgchin repo.
+
 # Delta 5 Race Timer
 
 <img src="doc/img/delta5racetimer.jpg" align="right" alt="Delta5 Race Timer"/>
